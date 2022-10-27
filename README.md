@@ -23,7 +23,7 @@ Başlangıç: [16,21,11,8,12,22]
 
 2. Big-O gösterimini yazınız.
 ###
-O(nlogn)
+O(nlong)
 ###
 ###
 [Patika.dev](https://www.patika.dev/tr)
