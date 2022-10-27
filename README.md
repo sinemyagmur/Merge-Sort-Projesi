@@ -1,9 +1,9 @@
 # Merge-Sort-Projesi
 Proje 2
 ###
-[16,21,11,8,12,22] -> Sıralamayı Birleştir
+[16,21,11,8,12,22] -> Merge Sort
 ###
-1. satın alma sıralamasına göre aşamalarını ifade eder.
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 ###
 Başlangıç: [16,21,11,8,12,22]
 ###
