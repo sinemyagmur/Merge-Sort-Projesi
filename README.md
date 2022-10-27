@@ -21,9 +21,9 @@ Başlangıç: [16,21,11,8,12,22]
 ###
 ###
 
-2. Büyük-O gösterimini yazınız.
+2. Big-O gösterimini yazınız.
 ###
-Büyük- O (nlogn)
+O(nlogn)
 ###
 ###
 [Patika.dev](https://www.patika.dev/tr)
